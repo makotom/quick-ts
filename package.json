@@ -1,0 +1,17 @@
+{
+    "name": "quick-ts",
+    "version": "1.0.20181010",
+    "scripts": {
+        "index": "ts-node index.ts",
+        "lint": "tslint -p tsconfig.json"
+    },
+    "author": "Makoto Mizukami <comm@makotom.org>",
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^10.11.7",
+        "ts-node": "^7.0.1",
+        "tslint": "^5.11.0",
+        "tslint-microsoft-contrib": "^5.2.1",
+        "typescript": "^3.1.2"
+    }
+}

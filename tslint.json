@@ -8,6 +8,7 @@
       "WebElementPromise"
     ],
     "binary-expression-operand-order": false,
+    "newline-per-chained-call": false,
     "no-backbone-get-set-outside-model": false,
     "no-implicit-dependencies": [
       true,
@@ -19,6 +20,7 @@
         "ignore-module": "(?:\\.html|\\.s?css)$"
       }
     ],
+    "no-null-keyword": false,
     "no-relative-imports": false,
     "one-variable-per-declaration": [
       true,
